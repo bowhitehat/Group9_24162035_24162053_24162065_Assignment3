@@ -2,6 +2,7 @@ target/
 .m2/
 tmp/
 scripts/
+output/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
